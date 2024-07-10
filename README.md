@@ -13,6 +13,21 @@
 
 - 📫 How to reach me **www.linkedin.com/in/priyanka-singh-643868315**
 
+
+## API Reference
+
+#### Get all projects
+
+```http
+ https://github.com/priyankasingh2907
+```
+
+| Project   | Link     | Github link               |
+| :-------- | :------- | :------------------------- |
+| `NFT-marketplace` | `https://pri-nft-marketplace.netlify.app/` | https://github.com/priyankasingh2907/nft-marketplace |
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/priyanka-singh-643868315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/priyanka-singh-643868315" height="30" width="40" /></a>
