@@ -25,8 +25,8 @@
 
 | Project   | Link     | Github link               |
 | :-------- | :------- | :------------------------- |
-| `NFT-marketplace` | `https://pri-nft-marketplace.netlify.app/` | https://github.com/priyankasingh2907/nft-marketplace |
-| `Travel-Agency` | `https://pri-travel-agency.netlify.app/#` | https://github.com/priyankasingh2907/react-travel-agency-website|
+| `NFT-marketplace` | https://pri-nft-marketplace.netlify.app/ | https://github.com/priyankasingh2907/nft-marketplace |
+| `Travel-Agency` | https://pri-travel-agency.netlify.app/# | https://github.com/priyankasingh2907/react-travel-agency-website|
 
 <br/>
 
