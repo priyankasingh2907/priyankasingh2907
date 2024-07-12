@@ -27,6 +27,8 @@
 | :-------- | :------- | :------------------------- |  :-------------------------|
 | `NFT-marketplace` | https://pri-nft-marketplace.netlify.app/ | https://github.com/priyankasingh2907/nft-marketplace |
 | `Travel-Agency` | https://pri-travel-agency.netlify.app/# | https://github.com/priyankasingh2907/react-travel-agency-website| https://www.youtube.com/watch?v=EwxWvLpDnOU|
+| `CoinBase-website` | https://pri-coinbase.netlify.app/ | https://github.com/priyankasingh2907/coinbase-responsive-website|https://www.youtube.com/watch?v=vV7X_JtXbhQ|
+
 
 <br/>
 
