@@ -30,6 +30,8 @@
 | `CoinBase-website` | https://pri-coinbase.netlify.app/ | https://github.com/priyankasingh2907/coinbase-responsive-website|https://www.youtube.com/watch?v=vV7X_JtXbhQ|
 | `Taxi-admin panel` | https://pri-admin-dashmaker.netlify.app/| https://github.com/priyankasingh2907/Admin-Dashboard|https://www.youtube.com/watch?v=AsTVQd02SJk|
 | `Shop-admin panel` | https://pri-shop-admin.netlify.app/| https://github.com/priyankasingh2907/Shop-Admin|https://www.youtube.com/watch?v=cXaX7x-SM1I|
+| `Revenue admin pannel` | https://pri-revenue-dashboard.netlify.app/| https://github.com/priyankasingh2907/Revenue-Dashboard||
+
 
 
 
