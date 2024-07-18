@@ -32,7 +32,9 @@
 | `Shop-admin panel` | https://pri-shop-admin.netlify.app/| https://github.com/priyankasingh2907/Shop-Admin|https://www.youtube.com/watch?v=cXaX7x-SM1I|
 | `Revenue admin pannel` | https://pri-revenue-dashboard.netlify.app/| https://github.com/priyankasingh2907/Revenue-Dashboard||
 | `zeniod website` | https://pri-zeniod.netlify.app/| https://github.com/priyankasingh2907/Zeniod-agency-website|https://www.youtube.com/watch?v=0HhkCWo2P0s|
-| `travel adency` | https://pri-travel-web.netlify.app/| https://github.com/priyankasingh2907/travel-website||
+| `travel adency` | https://pri-travel-web.netlify.app/| https://github.com/priyankasingh2907/travel-website|https://www.youtube.com/channel/UCmIZ3Q6s7Re7PII8-8D6E_A/|
+| ` Earthium-website` | https://earthium-website.netlify.app/| https://github.com/priyankasingh2907/Earthium-website|https://www.youtube.com/channel/UCmIZ3Q6s7Re7PII8-8D6E_A/|
+
 
 
 
