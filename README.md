@@ -25,6 +25,7 @@
 
 | Project   | Link     | Github link               | videio|
 | :-------- | :------- | :------------------------- |  :-------------------------|
+| `LARAVEL-webapp` |  | https://github.com/priyankasingh2907/laravel_web_app |https://youtube.com/watch?v=n8yjG6S9YRI|
 | `NFT-marketplace` | https://pri-nft-marketplace.netlify.app/ | https://github.com/priyankasingh2907/nft-marketplace |
 | `Travel-Agency` | https://pri-travel-agency.netlify.app/# | https://github.com/priyankasingh2907/react-travel-agency-website| https://www.youtube.com/watch?v=EwxWvLpDnOU|
 | `CoinBase-website` | https://pri-coinbase.netlify.app/ | https://github.com/priyankasingh2907/coinbase-responsive-website|https://www.youtube.com/watch?v=vV7X_JtXbhQ|
