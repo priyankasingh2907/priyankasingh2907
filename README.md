@@ -25,6 +25,8 @@
 
 | Project   | Link     | Github link               | videio|
 | :-------- | :------- | :------------------------- |  :-------------------------|
+| `LARAVEL-ajaxCURD` |https://github.com/user-attachments/assets/344031c5-e30a-4d61-afa1-5444052af2b7 | https://github.com/priyankasingh2907/ajaxCurdLaravel||
+| `LARAVEL-webapp` |  | https://github.com/priyankasingh2907/laravel_web_app |https://youtube.com/watch?v=n8yjG6S9YRI|
 | `CoinBase-website` | https://pri-coinbase.netlify.app/ | https://github.com/priyankasingh2907/coinbase-responsive-website|https://www.youtube.com/watch?v=vV7X_JtXbhQ|
 | `Taxi-admin panel` | https://pri-admin-dashmaker.netlify.app/| https://github.com/priyankasingh2907/Admin-Dashboard|https://www.youtube.com/watch?v=AsTVQd02SJk|
 | `Shop-admin panel` | https://pri-shop-admin.netlify.app/| https://github.com/priyankasingh2907/Shop-Admin|https://www.youtube.com/watch?v=cXaX7x-SM1I|
@@ -32,11 +34,6 @@
 | `zeniod website` | https://pri-zeniod.netlify.app/| https://github.com/priyankasingh2907/Zeniod-agency-website|https://www.youtube.com/watch?v=0HhkCWo2P0s|
 | `travel adency` | https://pri-travel-web.netlify.app/| https://github.com/priyankasingh2907/travel-website|https://www.youtube.com/channel/UCmIZ3Q6s7Re7PII8-8D6E_A/|
 | ` Earthium-website` | https://earthium-website.netlify.app/| https://github.com/priyankasingh2907/Earthium-website|https://www.youtube.com/channel/UCmIZ3Q6s7Re7PII8-8D6E_A/|
-
-
-
-
-
 
 
 
