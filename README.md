@@ -25,6 +25,8 @@
 
 | Project   | Link     | Github link               | videio|
 | :-------- | :------- | :------------------------- |  :-------------------------|
+| `MERN-GoFood` |https://github.com/priyankasingh2907/GoFood-/tree/main
+ | ||
 | `LARAVEL-ajaxCURD` |https://github.com/user-attachments/assets/344031c5-e30a-4d61-afa1-5444052af2b7 | https://github.com/priyankasingh2907/ajaxCurdLaravel||
 | `LARAVEL-webapp` |  | https://github.com/priyankasingh2907/laravel_web_app |https://youtube.com/watch?v=n8yjG6S9YRI|
 | `CoinBase-website` | https://pri-coinbase.netlify.app/ | https://github.com/priyankasingh2907/coinbase-responsive-website|https://www.youtube.com/watch?v=vV7X_JtXbhQ|
