@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Singh</h1>
-<h3 align="center">A passionate Full stack developer (MERN) from India.</h3>
+<h3 align="center">A passionate Full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankasingh2907&label=Profile%20views&color=0e75b6&style=flat" alt="priyankasingh2907" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java ,DSA**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **www.linkedin.com/in/priyanka-singh-643868315**
 
